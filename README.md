@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monikasagar22
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Wb development
+- 💞️ I’m looking to collaborate on Web development
 - 📫 monikasagar388@gmail.com
 
 <!---
