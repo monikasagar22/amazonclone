@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monikasagar22
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Developmentand andSoftware Development
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Web development
 - 📫 monikasagar388@gmail.com
 
